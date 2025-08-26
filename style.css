@@ -204,6 +204,9 @@ header {
 .btn.btn2 {
   display: inline-block;
   background: #ff004f;
+  color:#fff;
+  font-size: 25px;
+  border-radius: 25px;
 }
 .contact-right form {
   width: 100%;
