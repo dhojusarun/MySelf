@@ -121,6 +121,10 @@ header {
 .skills {
     text-align: left;
 }
+.skills h1{
+    text-align: center;
+    text-decoration: underline;
+}
 
 .skills .percentage {
     float: right;
